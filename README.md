@@ -23,6 +23,13 @@
   <a href="#license">License</a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider.svg" alt="" width="100%" height="12">
+  </picture>
+</p>
+
 A native iPhone music player for the music you already own. Import DRM-free audio from Files and browse it through an artwork-first, near-black interface with a spatial collection browser, floating search, and a continuous mini-player and full-screen player. Your music, artwork, playlists, and favorites stay on the device for offline listening.
 
 **Stack:** Swift · SwiftUI · AVFoundation · SQLite (portable Swift core package) · MusicBrainz / Cover Art Archive (optional artwork lookup) · Python scripts for project generation
